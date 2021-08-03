@@ -14,6 +14,6 @@ Bonjour! This is __Aryan Ranjan__. I'm a student of Btech Chemical Engineering @
 -- 😄 Pronouns: ...
 -- ⚡ Fun fact: ...
 -->
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-ary27&show_icons=true&theme=dracula&border_color=D56083)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-ary27&show_icons=true&theme=dracula&border_color=D56083&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just-ary27&layout=compact&theme=dracula&border_color=D56083)
