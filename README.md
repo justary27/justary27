@@ -21,7 +21,7 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), an eighteen yea
     <a href="https://firebase.google.com/"><img src=https://user-images.githubusercontent.com/76696648/154311427-44e4127b-6a11-43d9-997b-d9287ff5b7c6.png height=40 width=40>
     </a>
     <a href="https://www.python.org/"><img src=https://user-images.githubusercontent.com/76696648/154234428-5f995671-9476-4df5-ac7f-a4c9b5585765.png height=40 width=40></a>
-    <img src=https://user-images.githubusercontent.com/76696648/154632877-8955499e-74ce-4671-82db-8da0848c5843.png height=40 width=40>
+    <a href="https://www.djangoproject.com/"><img src=https://user-images.githubusercontent.com/76696648/154632877-8955499e-74ce-4671-82db-8da0848c5843.png height=40 width=40></a>
     <img src=https://user-images.githubusercontent.com/76696648/154632554-22337d76-d99f-4c0b-bdf2-33b9f1a90197.png height=40 width=40>
     <img src=https://user-images.githubusercontent.com/76696648/154234702-b55c66f3-38af-4cf8-ac73-4ab2bf38b2da.png height=40 width=40>
     <img src=https://user-images.githubusercontent.com/76696648/154236306-dfd8bdb8-4849-4e68-9851-b4368bd9120f.png height=40 width=40>
