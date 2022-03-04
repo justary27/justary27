@@ -6,7 +6,7 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), an eighteen yea
 
 </br></br>
 <div align=right> 
-  <a href="https://justary27portfolio.web.app"><img src="https://user-images.githubusercontent.com/76696648/154318625-6ddb6631-81f9-423c-99c4-dc6c798ba347.png" alt="" height =40></a>&emsp;
+  <a href="https://justary27.web.app"><img src="https://user-images.githubusercontent.com/76696648/154318625-6ddb6631-81f9-423c-99c4-dc6c798ba347.png" alt="" height =40></a>&emsp;
   <a href="https://www.instagram.com/justary27/"><img src="https://user-images.githubusercontent.com/76696648/153768120-dd0a5d48-fd2b-4858-b9ea-72a2da1289b1.png" alt="" height =40></a>&emsp;
   <a href="https://www.linkedin.com/in/aryan-ranjan27/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/800px-Linkedin_circle.svg.png" alt="" height =40></a>
 </div>
