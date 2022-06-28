@@ -2,7 +2,7 @@
 
 ### Aryan Ranjan
 ###### _**Codiyin' reality, IITR '24**_
-Hi! I’m **Aryan Ranjan** (often going by the alias justary27), an eighteen year old _sophomore_, pursuing BTech in Chemical Engineering at IITR. Am deeply interested in all fields of coding. Have currently tried web, app & game development. Wanting to learn more about the fields of DL, ML & blockchain. Currently aspiring to crack GSoC ‘22.
+Hi! I’m **Aryan Ranjan** (often going by the alias justary27), an eighteen year old _sophomore_, pursuing BTech in Chemical Engineering at IITR. Am deeply interested in all fields of coding. Have currently tried web, app & game development. Wanting to learn more about the fields of DL, ML & blockchain. I also like to do UI design! Currently aspiring to crack GSoC ‘22.
 
 </br></br>
 <div align=right> 
