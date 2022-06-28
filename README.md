@@ -6,7 +6,7 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), an eighteen yea
 
 </br></br>
 <div align=right> 
-  <a href="https://justary27.web.app"><img src="https://user-images.githubusercontent.com/76696648/154318625-6ddb6631-81f9-423c-99c4-dc6c798ba347.png" alt="" height =40></a>&emsp;
+  <a href="https://justary27.web.app"><img src="https://user-images.githubusercontent.com/76696648/176264414-6b9a9549-cb25-41f3-9e00-d857bd8bd7cf.svg" alt="" height =40></a>&emsp;
   <a href="https://www.instagram.com/justary27/"><img src="https://user-images.githubusercontent.com/76696648/153768120-dd0a5d48-fd2b-4858-b9ea-72a2da1289b1.png" alt="" height =40></a>&emsp;
   <a href="https://www.linkedin.com/in/aryan-ranjan27/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Linkedin_circle.svg/800px-Linkedin_circle.svg.png" alt="" height =40></a>
 </div>
@@ -28,6 +28,7 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), an eighteen yea
     <img src=https://user-images.githubusercontent.com/76696648/154235246-78a85620-3698-4b8f-a62c-db5ba8922412.png height=40 width=40>
   </div>
   </br>
+
   <hr>
   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=just-ary27&show_icons=true&theme=dracula&border_color=D56083&count_private=true" width=400 height=350>
