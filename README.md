@@ -27,6 +27,7 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), an eighteen yea
     <img src=https://user-images.githubusercontent.com/76696648/154234702-b55c66f3-38af-4cf8-ac73-4ab2bf38b2da.png height=40 width=40>
     <img src=https://user-images.githubusercontent.com/76696648/154236306-dfd8bdb8-4849-4e68-9851-b4368bd9120f.png height=40 width=40>
     <img src=https://user-images.githubusercontent.com/76696648/154235246-78a85620-3698-4b8f-a62c-db5ba8922412.png height=40 width=40>
+    <img src=https://user-images.githubusercontent.com/76696648/184474094-3b522c64-71be-4e37-b59b-cd1186bdac6f.png height=40>
   </div>
   </br>
 
