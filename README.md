@@ -32,6 +32,7 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), a pre-final yea
     <img src=https://user-images.githubusercontent.com/76696648/184474094-3b522c64-71be-4e37-b59b-cd1186bdac6f.png height=40>
     <img src=https://user-images.githubusercontent.com/76696648/185360778-f4a8cf47-51c2-49d5-90fb-40fda29fcda0.png height=40>
     <img src=https://user-images.githubusercontent.com/76696648/185360285-d46e6d20-9309-4e1b-b03b-711bf602716e.png height=40>
+    <img src=https://user-images.githubusercontent.com/76696648/232198906-aa7c7538-86c2-4eec-93af-76efcea0a7b9.svg height=40>
   </div>
   </br>
 
