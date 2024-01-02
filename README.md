@@ -23,22 +23,23 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), a pre-final yea
     </a>
     <a href="https://www.python.org/"><img src=https://user-images.githubusercontent.com/76696648/154234428-5f995671-9476-4df5-ac7f-a4c9b5585765.png height=40 width=40></a>
     <a href="https://www.djangoproject.com/"><img src=https://user-images.githubusercontent.com/76696648/154632877-8955499e-74ce-4671-82db-8da0848c5843.png height=40 width=40></a>
-    <img src=https://user-images.githubusercontent.com/76696648/184693457-71ce2510-193c-4e18-b97d-63cb84bcd98d.svg height=40>
+    <a href="https://jupyter.org/"><img src=https://user-images.githubusercontent.com/76696648/184693457-71ce2510-193c-4e18-b97d-63cb84bcd98d.svg height=40></a>
     <img src=https://user-images.githubusercontent.com/76696648/176266759-767b1cd7-209e-4951-bf33-7f4a0a8abd68.svg height=40 width=40>
     <img src=https://user-images.githubusercontent.com/76696648/154632554-22337d76-d99f-4c0b-bdf2-33b9f1a90197.png height=40 width=40>
     <img src=https://user-images.githubusercontent.com/76696648/154234702-b55c66f3-38af-4cf8-ac73-4ab2bf38b2da.png height=40 width=40>
     <img src=https://user-images.githubusercontent.com/76696648/154236306-dfd8bdb8-4849-4e68-9851-b4368bd9120f.png height=40 width=40>
-    <img src=https://github.com/just-ary27/just-ary27/assets/76696648/6b23628b-dac1-46f2-b489-4efaf6f9a35c height=40>
+    <a href="https://sass-lang.com/"><img src=https://github.com/just-ary27/just-ary27/assets/76696648/6b23628b-dac1-46f2-b489-4efaf6f9a35c height=40></a>
   </div>
   </br>
   <div align=center>
     <img src=https://user-images.githubusercontent.com/76696648/154235246-78a85620-3698-4b8f-a62c-db5ba8922412.png height=40 width=40>
-    <img src=https://user-images.githubusercontent.com/76696648/184474094-3b522c64-71be-4e37-b59b-cd1186bdac6f.png height=40>
-    <img src=https://user-images.githubusercontent.com/76696648/185360778-f4a8cf47-51c2-49d5-90fb-40fda29fcda0.png height=40>
+    <a href="https://react.dev/"><img src=https://user-images.githubusercontent.com/76696648/184474094-3b522c64-71be-4e37-b59b-cd1186bdac6f.png height=40></a>
+    <a href="https://matlab.mathworks.com/"><img src=https://user-images.githubusercontent.com/76696648/185360778-f4a8cf47-51c2-49d5-90fb-40fda29fcda0.png height=40></a>
     <img src=https://user-images.githubusercontent.com/76696648/185360285-d46e6d20-9309-4e1b-b03b-711bf602716e.png height=40>
-    <img src=https://user-images.githubusercontent.com/76696648/232198906-aa7c7538-86c2-4eec-93af-76efcea0a7b9.svg height=40>
-    <img src=https://github.com/just-ary27/just-ary27/assets/76696648/48c8abef-282d-4ae4-bcad-226fca6cd091 height=40>
-    <img src=https://github.com/just-ary27/just-ary27/assets/76696648/97185bf3-1179-46d1-bcb4-911651cefe88 height=40>
+    <a href="https://julialang.org/"><img src=https://user-images.githubusercontent.com/76696648/232198906-aa7c7538-86c2-4eec-93af-76efcea0a7b9.svg height=40></a>
+    <a href="https://www.typescriptlang.org/"><img src=https://github.com/just-ary27/just-ary27/assets/76696648/48c8abef-282d-4ae4-bcad-226fca6cd091 height=40></a>
+    <a href="https://aws.amazon.com/"><img src=https://github.com/just-ary27/just-ary27/assets/76696648/97185bf3-1179-46d1-bcb4-911651cefe88 height=40></a>
+    <a href="https://developer.hashicorp.com/terraform/"><img src=https://github.com/just-ary27/just-ary27/assets/76696648/3ee97189-ffe0-4772-ac73-56fa3e65b3e3 height=40></a>
   </div>
 
   </br>
