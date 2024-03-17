@@ -47,9 +47,9 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), a pre-final yea
 
   <hr>
   <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=just-ary27&show_icons=true&theme=dracula&border_color=D56083&count_private=true" width=400 height=350>
+    <img src="https://github-readme-stats.vercel.app/api?username=justary27&show_icons=true&theme=dracula&border_color=D56083&count_private=true" width=400 height=350>
     &emsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-ary27&layout=compact&theme=dracula&border_color=D56083&count_private=true" width=400 height=350>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justary27&layout=compact&theme=dracula&border_color=D56083&count_private=true" width=400 height=350>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=just-ary27&color=red">
+  <img src="https://komarev.com/ghpvc/?username=justary27&color=red">
 </html>
