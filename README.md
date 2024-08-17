@@ -28,7 +28,7 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), a BTech graduat
     <img src=https://user-images.githubusercontent.com/76696648/154632554-22337d76-d99f-4c0b-bdf2-33b9f1a90197.png height=40 width=40>
     <img src=https://user-images.githubusercontent.com/76696648/154234702-b55c66f3-38af-4cf8-ac73-4ab2bf38b2da.png height=40 width=40>
     <img src=https://user-images.githubusercontent.com/76696648/154236306-dfd8bdb8-4849-4e68-9851-b4368bd9120f.png height=40 width=40>
-    <a href="https://sass-lang.com/"><img src=https://github.com/just-ary27/just-ary27/assets/76696648/6b23628b-dac1-46f2-b489-4efaf6f9a35c height=40></a>
+    <a href="https://sass-lang.com/"><img src=https://github.com/user-attachments/assets/4d747bd9-45e6-4cc5-8dfb-35a50ab545ab height=40></a>
   </div>
   </br>
   <div align=center>
@@ -37,10 +37,11 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), a BTech graduat
     <a href="https://matlab.mathworks.com/"><img src=https://user-images.githubusercontent.com/76696648/185360778-f4a8cf47-51c2-49d5-90fb-40fda29fcda0.png height=40></a>
     <img src=https://user-images.githubusercontent.com/76696648/185360285-d46e6d20-9309-4e1b-b03b-711bf602716e.png height=40>
     <a href="https://julialang.org/"><img src=https://user-images.githubusercontent.com/76696648/232198906-aa7c7538-86c2-4eec-93af-76efcea0a7b9.svg height=40></a>
-    <a href="https://www.typescriptlang.org/"><img src=https://github.com/just-ary27/just-ary27/assets/76696648/48c8abef-282d-4ae4-bcad-226fca6cd091 height=40></a>
+    <a href="https://www.typescriptlang.org/"><img src=https://github.com/user-attachments/assets/59348043-2ed0-40a4-9086-89f2811a3790 height=40></a>
     <a href="https://go.dev/"><img src=https://github.com/just-ary27/just-ary27/assets/76696648/fa9ef3a0-35de-4bae-bec5-86bc07ab1d20 height=40></a>
     <a href="https://aws.amazon.com/"><img src=https://github.com/just-ary27/just-ary27/assets/76696648/97185bf3-1179-46d1-bcb4-911651cefe88 height=40></a>
     <a href="https://developer.hashicorp.com/terraform/"><img src=https://github.com/just-ary27/just-ary27/assets/76696648/3ee97189-ffe0-4772-ac73-56fa3e65b3e3 height=40></a>
+    <a href="https://kubernetes.io/"><img src="https://github.com/user-attachments/assets/4573e0da-6e6c-4de0-8452-e09519070e75" height=40 width=40></a>
   </div>
 
   </br>
