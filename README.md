@@ -16,7 +16,7 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), a B.Tech gradua
 <html>
   </br>
   <div align=center>
-    <p><b>Tech Stack</b></p>
+    <h3>Tech Stack</h3>
     <a href="https://dart.dev/"><img src=https://github.com/user-attachments/assets/484e08e0-696a-4374-ab47-bc5464c83d04 height=40></a>
     <a href="https://www.python.org/"><img src=https://user-images.githubusercontent.com/76696648/154234428-5f995671-9476-4df5-ac7f-a4c9b5585765.png height=40></a>
     <img src=https://user-images.githubusercontent.com/76696648/176266759-767b1cd7-209e-4951-bf33-7f4a0a8abd68.svg height=40>
