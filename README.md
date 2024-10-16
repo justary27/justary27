@@ -35,6 +35,7 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), a B.Tech gradua
     <a href="https://react.dev/"><img src=https://user-images.githubusercontent.com/76696648/184474094-3b522c64-71be-4e37-b59b-cd1186bdac6f.png height=40></a>
     <a href="https://nextjs.org/"><img src=https://github.com/user-attachments/assets/78ef1e6b-1472-453d-a417-5c493a6ff10e height=40</a>
     <a href="https://www.djangoproject.com/"><img src=https://user-images.githubusercontent.com/76696648/154632877-8955499e-74ce-4671-82db-8da0848c5843.png height=40></a>
+    <a href="https://flask.palletsprojects.com/"><img src=https://github.com/user-attachments/assets/60de7ab2-c17a-413c-a5d8-5c9884415474 height=40></a>
     <a href="https://jupyter.org/"><img src=https://user-images.githubusercontent.com/76696648/184693457-71ce2510-193c-4e18-b97d-63cb84bcd98d.svg height=40></a>
     <a href="https://matlab.mathworks.com/"><img src=https://user-images.githubusercontent.com/76696648/185360778-f4a8cf47-51c2-49d5-90fb-40fda29fcda0.png height=40></a>
   </div>
