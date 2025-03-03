@@ -1,5 +1,3 @@
-<img src=https://user-images.githubusercontent.com/76696648/154315398-090ef7ce-b0f9-4574-b810-e670143577f7.png width=100%>
-
 # Aryan Ranjan
 ###### _**Codiyin' reality, IITR '24**_
 Hi! I’m **Aryan Ranjan** (often going by the alias justary27), a B.Tech graduate in Chemical Engineering and minor in Computer Science Engineering at IITR. I am deeply interested in all fields of coding. Have currently tried web, app & game development. Wanting to learn more about the fields of DL, ML & blockchain. I also like to do UI design!
@@ -45,6 +43,8 @@ Hi! I’m **Aryan Ranjan** (often going by the alias justary27), a B.Tech gradua
     <a href="https://kubernetes.io/"><img src="https://github.com/user-attachments/assets/4573e0da-6e6c-4de0-8452-e09519070e75" height=40></a>
     <a href="https://aws.amazon.com/"><img src=https://github.com/just-ary27/just-ary27/assets/76696648/97185bf3-1179-46d1-bcb4-911651cefe88 height=40></a>
     <a href="https://firebase.google.com/"><img src=https://user-images.githubusercontent.com/76696648/154311427-44e4127b-6a11-43d9-997b-d9287ff5b7c6.png height=40 width=40></a>
+    <a href="https://portal.azure.com/"><img src=https://github.com/user-attachments/assets/88534b5a-740f-4a99-b926-062d440dbab1 height=40></a>
+    <a href="https://console.cloud.google.com/"><img src=https://github.com/user-attachments/assets/8a6f745b-66a3-4d27-a838-a3cb38edbd42 height=40></a>
   </div>
 
   </br>
