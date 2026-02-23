@@ -2,7 +2,7 @@
 
 # Aryan Ranjan
 ###### _**Codiyin' reality, IITR '24**_
-Hi! I’m **Aryan Ranjan** (often going by the alias justary27), a B.Tech graduate in Chemical Engineering and minor in Computer Science Engineering at IITR. I am deeply interested in all fields of coding. Have currently tried web, app & game development. Wanting to learn more about the fields of DL, ML & blockchain. I also like to do UI design!
+Hi! I’m **Aryan Ranjan** (often going by the alias justary27), currently a Fullstack AI Engineery @8club & a B.Tech graduate in Chemical Engineering and minor in Computer Science Engineering at IITR. I am deeply interested in all fields of coding and reading latest tech research papers. Wanting to learn more about the fields of blockchain, compiler design, core ML & DL. I also like to do UI design!
 
 </br></br>
 <div align=right> 
